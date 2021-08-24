@@ -13,7 +13,7 @@ import pandas as pd
 # In[2]:
 class Model:
 
-    openai.api_key = "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"
+    openai.api_key = "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"
 
 
     def usamodel(self,quest,mt,mr):
